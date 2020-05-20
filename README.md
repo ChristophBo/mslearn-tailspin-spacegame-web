@@ -1,3 +1,4 @@
+[![Build Status](https://christophb.visualstudio.com/MSLearning/_apis/build/status/ChristophBo.mslearn-tailspin-spacegame-web?branchName=master)](https://christophb.visualstudio.com/MSLearning/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
